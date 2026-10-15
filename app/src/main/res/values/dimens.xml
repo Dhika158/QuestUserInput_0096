@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimens name="paddingchan">10dp</dimens>
-    <dimens name="paddingkun">30dp</dimens>
-    <dimens name="paddingobake">1dp</dimens>
+    <dimen name="paddingchan">10dp</dimen>
+    <dimen name="paddingkun">30dp</dimen>
+    <dimen name="paddingobake">1dp</dimen>
 </resources>
