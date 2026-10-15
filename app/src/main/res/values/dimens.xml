@@ -2,4 +2,5 @@
 <resources>
     <dimens name="paddingchan">10dp</dimens>
     <dimens name="paddingkun">30dp</dimens>
+    <dimens name="paddingobake">1dp</dimens>
 </resources>
